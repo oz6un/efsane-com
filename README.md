@@ -3,6 +3,12 @@
 A single static page (`index.html`, no dependencies, no build step) advertising
 efsane.com for sale. Offers route to `hbilis@efsane.com.tr`.
 
+Turkish by default, with an EN toggle in the top right; the choice is remembered
+in `localStorage`. Copy for both languages lives in the `COPY` object at the
+bottom of `index.html` — the mailto subject and body are translated too. The two
+taglines are deliberately not translations of each other: the English one leans
+on "efsane" meaning *legend*, which is not a selling point in Turkish.
+
 Published with GitHub Pages from `main` at the repo root:
 https://oz6un.github.io/efsane-com/
 
