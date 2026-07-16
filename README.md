@@ -9,6 +9,9 @@ bottom of `index.html` — the mailto subject and body are translated too. The t
 taglines are deliberately not translations of each other: the English one leans
 on "efsane" meaning *legend*, which is not a selling point in Turkish.
 
+The page makes no claims about the domain's history, traffic, or transfer terms.
+Anything added there should be something you can actually stand behind.
+
 Published with GitHub Pages from `main` at the repo root:
 https://oz6un.github.io/efsane-com/
 
